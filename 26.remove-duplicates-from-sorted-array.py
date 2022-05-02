@@ -5,6 +5,8 @@
 #
 # https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 #
+# https://www.youtube.com/watch?v=DEJAZBq0FDA
+#
 # algorithms
 # Easy (48.86%)
 # Likes:    6487
