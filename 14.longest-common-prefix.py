@@ -59,4 +59,12 @@ class Solution:
 
         return res
 
+        # same problem restated without comments.
+        # res = ""
+        # for idx in range(len(strs[0])):
+        #     for string in strs:
+        #         if idx == len(string) or string[idx] != strs[0][idx]:
+        #             return res
+        # return res
+
 # @lc code=end

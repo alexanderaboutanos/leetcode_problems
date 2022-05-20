@@ -4,6 +4,8 @@
 # [15] 3Sum
 #
 # https://leetcode.com/problems/3sum/description/
+
+# https://www.youtube.com/watch?v=jzZsG8n2R9A
 #
 # algorithms
 # Medium (31.07%)
